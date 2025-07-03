@@ -2,7 +2,7 @@ group 'com.kisselindustries.flutterisiosapponmac.flutter_is_ios_app_on_mac'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.6.10'
+    ext.kotlin_version = '1.7.10'
     repositories {
         google()
         mavenCentral()
