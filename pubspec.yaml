@@ -1,6 +1,6 @@
 name: flutter_is_ios_app_on_mac
 description: Check if this is an iOS app executed on a mac
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/MatthiasKi/flutter_is_ios_app_on_mac
 
 environment:
